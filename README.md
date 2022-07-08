@@ -27,10 +27,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/amanmalvi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amanmalvi" /></a></p><br><br>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman-dev1504&show_icons=true&locale=en&layout=compact" alt="aman-dev1504" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aman-dev1504&show_icons=true&locale=en" alt="aman-dev1504" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman-dev1504&" alt="aman-dev1504" /></p>
-
