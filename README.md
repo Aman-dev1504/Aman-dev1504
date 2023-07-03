@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman malviya</h1>
-<h6 align="center">A passionate Full stack developer/h6>
+<h6 align="center">A passionate Full stack developer</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-dev1504&label=Profile%20views&color=0e75b6&style=flat" alt="aman-dev1504" /> </p>
 
