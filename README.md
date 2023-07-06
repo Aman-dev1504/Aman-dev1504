@@ -9,9 +9,6 @@
 
 - 💬 Ask me about **MERN stack development**
 
-- 📫 How to reach me **amanmalviy786an@gmail.com**
-
-- ⚡ Fun fact **📛**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
