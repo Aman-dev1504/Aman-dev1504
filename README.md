@@ -78,7 +78,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/aman-dev1504/aman-dev1504/output/snake.svg" alt="Snake animation" />
-
-###
