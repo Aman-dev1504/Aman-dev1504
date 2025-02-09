@@ -2,9 +2,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif?cid=790b76113brbqqf0es0xhipeptpyauori6mxdplvokrige61&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
 
 ###
 
