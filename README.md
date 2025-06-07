@@ -9,10 +9,13 @@
 ### 🛠 Tech Stack
 
 **Frontend:** React, Next.js, Javascript, TypeScript  
+
 **Backend:** Node.js, Express
 
 **Programming Languages:** C++ , Python
+
 **Databases:** MongoDB, PostgreSQL , SQL  
+
 **DevOps:** Docker, Kubernetes, AWS, Azure  
 
 ---
