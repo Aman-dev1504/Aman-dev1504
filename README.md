@@ -22,10 +22,3 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/aman_dev1504)
 
 ---
-
-### 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aman-dev1504&show_icons=true&theme=codeSTACKr&count_private=true&hide=issues" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-dev1504&layout=compact&theme=codeSTACKr" height="150" />
-</p>
